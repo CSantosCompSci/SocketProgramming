@@ -1,5 +1,5 @@
 """
-program written by Christopher Santos
+program written by CSantosCompSci
 project is a simple python socket program that prompts user for
 IP address, port number, and a file name to send a request to a server matching
 that criteria. The respnse is then saved locally to a file name the user specifies and
